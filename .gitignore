@@ -4,6 +4,9 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+Results
+test-dir
+
 # Other files and folders
 .settings/
 
